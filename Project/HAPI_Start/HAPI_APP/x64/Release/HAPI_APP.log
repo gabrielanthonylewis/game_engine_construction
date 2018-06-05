@@ -1,0 +1,30 @@
+﻿  main.cpp
+  AI.cpp
+  Boss.cpp
+  Bullet.cpp
+  Drone.cpp
+  DroneMaker.cpp
+  DronePath.cpp
+  EnemyWaves.cpp
+  Entity.cpp
+  Explosion.cpp
+  HUDElement.cpp
+  KamikazeDrone.cpp
+  Map.cpp
+  Missile.cpp
+  ObjectPool.cpp
+  Player.cpp
+  Rectangle.cpp
+  SoundSystem.cpp
+  Visualiser.cpp
+  Sprite.cpp
+  Compiling...
+  StarField.cpp
+  Texture.cpp
+  World.cpp
+     Creating library E:\Users\GabeMeister\My Documents\University\Year 2\Games Engine Construction\Element 2\ICA\LewisGabriel_Q5094111\Project\HAPI_Start\x64\Release\HAPI_APP.lib and object E:\Users\GabeMeister\My Documents\University\Year 2\Games Engine Construction\Element 2\ICA\LewisGabriel_Q5094111\Project\HAPI_Start\x64\Release\HAPI_APP.exp
+  Generating code
+  All 5932 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HAPI_APP.vcxproj -> E:\Users\GabeMeister\My Documents\University\Year 2\Games Engine Construction\Element 2\ICA\LewisGabriel_Q5094111\Project\HAPI_Start\x64\Release\HAPI_APP.exe
+  HAPI_APP.vcxproj -> E:\Users\GabeMeister\My Documents\University\Year 2\Games Engine Construction\Element 2\ICA\LewisGabriel_Q5094111\Project\HAPI_Start\x64\Release\HAPI_APP.pdb (Full PDB)
